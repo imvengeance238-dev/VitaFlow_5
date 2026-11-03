@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "24823532190",
+    "project_id": "vitaflow-cbc12",
+    "storage_bucket": "vitaflow-cbc12.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24823532190:android:f591081ad44b9c39fc898f",
+        "android_client_info": {
+          "package_name": "app.vitaflow.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24823532190-q2gu4e8ckuq1t34g1iataso3vkpcqcat.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.vitaflow.com",
+            "certificate_hash": "6bdd6f40ca87d0e23bcb4333923ded274f05026a"
+          }
+        },
+        {
+          "client_id": "24823532190-6p9bsev06g178bdies7n3cslj9uheei8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_lSL-gX3hDTyVj7a7YfnHaAnmaok_pLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24823532190-6p9bsev06g178bdies7n3cslj9uheei8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
